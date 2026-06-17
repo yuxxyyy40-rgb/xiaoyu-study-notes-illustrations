@@ -11,9 +11,6 @@ Pure white background. Minimalist black-and-white hand-drawn line art. Slightly 
 Recurring IP character required:
 小鱼, a small black-and-white science-minded person wearing round glasses and a rounded fish-head hood hat. The hat wraps around the top and sides of the head like a simple soft helmet, with one side fin, a tiny top fin or bump, and 2-4 curved segmented line marks. Add two tiny fish eyes on the front forehead area of the hat: either small black dot eyes or sleepy short-arc eyes. These hat eyes should be cute and quiet, but do not add a fish mouth. The person's round glasses and calm face remain visible below the hat. The fish-head hat is a simple black-and-white line-art identity mark, not a plush toy, not a realistic fish costume, not animal-face cosplay. 小鱼 has a calm relaxed expression, loose shoulders, simple hand-drawn body, and slightly slow patient movement. 小鱼 must perform the core learning action, not decorate the scene. Make 小鱼 relaxed, reliable, lightly cute because of the hat eyes, not childish, not anxious, not motivational-poster style.
 
-Baseline lock:
-Keep the character structure close to assets/references/xiaoyu-baseline-v1.png: round glasses, visible calm face, bangs, seated relaxed body, open notebook scene, fish-head hood with tiny forehead eyes, top fin, side fin/tail, and curved segmented hat marks. When improving the hat eyes or cuteness, edit from this baseline instead of changing the character into a different mascot or proportion.
-
 Theme:
 {学习笔记配图主题}
 
