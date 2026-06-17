@@ -1,0 +1,6 @@
+interface:
+  display_name: "小鱼学习笔记配图"
+  short_description: "为学习笔记生成黑白松弛、有小鱼 IP 的正文配图资产"
+  default_prompt: "Use $xiaoyu-study-notes-illustrations to 为这份学习笔记设计并生成几张松弛黑白正文配图。"
+policy:
+  allow_implicit_invocation: true
